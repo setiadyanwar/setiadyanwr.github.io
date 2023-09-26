@@ -26,4 +26,4 @@ function loaderActiveTime() {
   setInterval(loaderActive, 3000);
 }
 
-window.onload = loaderActiveTime();
+window.onload = loaderActiveTime
